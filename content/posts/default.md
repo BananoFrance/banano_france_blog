@@ -26,7 +26,11 @@ Elle est également écologique et décentralisée. 🌳
 ## Comment obtenir des Banano ?
 
 Vous pouvez obtenir des Banano de différentes manières. 🤔
-Vous pouvez les acheter sur des plateformes d'échange comme Binance ou Kucoin. 📈
-Vous pouvez également les gagner en jouant à des jeux comme Banano Miner ou Banano Quest. 🎮
+Vous pouvez les acheter sur des plateformes d'échange comme CoinEx ou sur des échanges décentralisées comme Uniswap et Pancake swap (voir [wBAN](https://bananofrance.github.io/banano_france_blog/posts/wban/)) 📈
+Vous pouvez également les gagner en jouant à des jeux comme Banano Miner ou Banano Quest. (voir [faucet](https://bananofrance.github.io/banano_france_blog/posts/faucet/)) 🎮
 Vous pouvez également les gagner en participant à des concours. 🎉
 
+## Comment stocker les Banano ?
+
+Vous pouvez stocker vos Banano sur un portefeuille comme Kalium (ou d'autres voir [Wallets](https://bananofrance.github.io/banano_france_blog/posts/wallets/)) ou sur un exchange centralisé comme CoinEx même si cette option est fortement déconseillé📦
+En ce qui concerne les wBAN vous pouvez les stocker sur un portefeuille comme Metamask ou Trust Wallet (voir [wBAN](https://bananofrance.github.io/banano_france_blog/posts/wban/)) 📦
