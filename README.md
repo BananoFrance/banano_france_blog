@@ -1,6 +1,5 @@
 ## Blog de BananoFrance
 
-
 ### Guide de contribution
 
 Pour contribuer au blog, vous devez ouvrir une pull request sur le dépôt GitHub du blog. Il y a quelques issues pour vous donner des idées mais toutes les contributions sont les bienvenues.
@@ -20,4 +19,3 @@ cover = "hello.jpg"
 description = "Description de l'article"
 +++
 ```
-
